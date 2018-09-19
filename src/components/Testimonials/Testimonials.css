@@ -1,3 +1,9 @@
+.testimonials .quote{
+    color: #DFE6E5;
+    text-align: center;
+    margin: 5% 0;
+}
+
 .testimonials .name{
     font-family: 'Roboto';
     font-size: 30px;

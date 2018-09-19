@@ -1,6 +1,6 @@
 .choose {
-    margin: 5vh 0 0 0;
-    max-height: 160vh;
+    margin: 5vh auto 0px auto;
+    max-height: 105vh;
     background-color: white;
     padding-top: 40vh; 
 }
@@ -57,11 +57,11 @@
 .choose .left-map{
     position: relative;
     top: -48vh;
-    left: 3.5vw;
+    right: 1vw;
 }
 
 .choose .right-map{
     position: relative;
     top: -48vh;
-    left: 47.5vw;
+    left: 42.8vw;
 }

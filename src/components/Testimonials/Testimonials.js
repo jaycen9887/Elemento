@@ -5,7 +5,7 @@ class Testimonials extends Component {
     render() {
         return(
             <div className='testimonials container'>
-                <div className='quote'></div>
+                <div className='quote'><i class="fas fa-quote-left fa-5x"></i></div>
                 <div className='header'>Testimonials</div>
                 <div className='grid-x'>
                     <div className='cell small-12 medium-6 large-6 testimonal-info'>
