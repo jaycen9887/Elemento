@@ -9,6 +9,7 @@ import Benefits from "../../components/Benefits";
 import Choose from "../../components/Choose";
 import Mentors from "../../components/Mentors";
 import Testimonials from "../../components/Testimonials";
+import PriceTable from "../../components/PriceTable";
 
 class LandingPage extends Component {
     constructor(props){
@@ -29,6 +30,7 @@ class LandingPage extends Component {
                 <Choose />
                 <Mentors />
                 <Testimonials />
+                <PriceTable />
             </div>
         )
     }

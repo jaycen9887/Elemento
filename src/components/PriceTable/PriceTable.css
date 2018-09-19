@@ -1,0 +1,109 @@
+.priceTable{
+    background-color: #F3F9F8;
+    padding-top: 20vh;
+}
+
+.priceTable .header{
+    font-family: "Roboto Slab";
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 71px;
+    text-align: center;
+    color: #1E9D8F;
+    margin-bottom: 20vh;
+}
+
+.priceTable .bar{
+    width: 20vw;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 12vh;
+}
+
+.priceTable .bar .left{
+    background-color: #1CABA0;
+    border: 1px solid #D9D9D9;
+    width: 50%;
+    border-top-left-radius: 2vh 50%;
+    border-bottom-left-radius: 2vh 50%;    
+}
+
+.priceTable .bar .right{
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid #D9D9D9;
+    width: 50%;
+    border-top-right-radius: 2vh 50%;
+    border-bottom-right-radius: 2vh 50%;
+}
+
+.priceTable .cell{
+    padding: 10vh 0 0 0;
+}
+.priceTable .advanced {
+    background-color: #1CABA0;
+    height: 100%;
+}
+
+.priceTable .type{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #1CABA0;
+    margin-bottom: 10vh;
+}
+
+.priceTable .advanced .type{
+    color: #FFF;
+}
+
+.priceTable img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFF;
+    padding: 3vh 1vw;
+    margin-bottom: 10vh;
+}
+
+.priceTable .group{
+    font-family: "Roboto";
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: -0.16px;
+    color: #818181;
+    margin-bottom: 10vh;
+}
+
+.priceTable .advanced .group{
+    color: white;
+}
+
+.priceTable .price{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 67px;
+    line-height: 55px;
+    text-align: center;
+    color: #1E9D8F;
+}
+
+.priceTable .advanced .price{
+    color: #FFF;
+}
+
+.priceTable .monthly{
+    font-family: "Roboto";
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #d9d9d9;
+    margin-bottom: 10vh;
+}
+
+.priceTable button {
+    
+}
+
