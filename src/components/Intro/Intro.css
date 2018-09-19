@@ -1,0 +1,11 @@
+.intro {
+    text-align: center;
+    background-color: white;
+}
+
+.intro-text{
+    font-family: 'Roboto';
+    font-weight: lighter;
+    font-size: 22px;
+    line-height: 33px;
+}

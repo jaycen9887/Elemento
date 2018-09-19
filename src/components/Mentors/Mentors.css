@@ -1,0 +1,145 @@
+.mentors {
+    background-color: #1CABA0;
+    padding: 5vh 5vw;
+}
+
+.mentors .header{
+    font-family: "Roboto Slab";
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 71px;
+    text-align: center;
+    color: #FFF;
+}
+
+.mentors .title{
+    font-family: 'Roboto';
+    font-size: 22px;
+    line-height: 26px;
+    text-align: left;
+    color: #FFF;
+    margin-bottom: 3vh;
+}
+
+.mentors .course-title{
+    font-weight: 700;
+}
+
+.mentors .see-all{
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #FFF;
+    text-decoration: none;
+    float: right;
+}
+
+.mentors .arrow-container{
+    border-radius: 50%;
+    background-color: white;
+    width: 2.5vw;
+    height: 2.5vw;
+    text-align: center;
+    color: #B3BDBC;
+}
+
+.mentors .left-top-arrow{
+    float: left;
+    color: rgba(0, 0, 0, 0.7);
+    position: relative;
+    top: 8vw;
+    right: 3vw;
+}
+.mentors .right-top-arrow{
+    float: right;
+    color:rgba(0, 0, 0, 0.7);
+    position: relative;
+    top: 8vw;
+    left: 3vw;
+}
+
+.mentors .left-bottom-arrow{
+    float: left;
+    color: rgba(0, 0, 0, 0.7);
+    position: relative;
+    top: 8vw;
+    right: 3vw;
+}
+.mentors .right-bottom-arrow{
+    float: right;
+    color:rgba(0, 0, 0, 0.7);
+    position: relative;
+    top: 8vw;
+    left: 3vw;
+}
+
+.mentors .card img{
+    max-width: 201px;
+    max-height: 165px;
+}
+.mentors .card {
+    max-width: 201px;
+}
+
+.mentors .fa-heart{
+    position: relative;
+    z-index: 1;
+    right: 1.5vw;
+    top: -12vh;
+    color: #979797;
+}
+
+.mentors .fa-user{
+    margin-left: .2vw;
+}
+
+.mentors .scroll-menu {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.mentors .scroll-menu::-webkit-scrollbar { 
+    display: none; 
+ }
+
+.mentors .scroll-menu .card-course{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: left;
+    color: #555;
+}
+
+.mentors .scroll-menu .card-instructor{
+    font-family: 'Roboto';
+    font-size: 10px;
+    line-height: 18px;
+    text-align: left;
+    color: #939393;
+}
+
+.mentors .scroll-top{
+    margin: 0 2vw 15vh 0;
+}
+.mentors .scroll-menu .card{
+    display: inline-block;
+    margin: 0px 1vw;
+    border-radius: 5%;
+}
+
+.mentors .rating .filled{
+    color: #25B5A9;
+}
+
+.mentors .rating .empty{
+    color: #D9D9D9;
+}
+
+.mentors .num-reviews{
+    font-family: "Roboto";
+    font-size: 10px;
+    line-height: 18px;
+    float: right;
+    color: #939393;
+}

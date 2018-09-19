@@ -1,0 +1,140 @@
+.benefits {
+    max-height: 230vh;
+}
+.benefits .light-green {
+    background-color: #F4FAFA;
+}
+
+.benefits .main {
+    margin-top: 5vw;
+    padding-bottom: 5vw;
+}
+.benefits .header{
+    font-family: "Roboto Slab";
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 71px;
+    text-align: center;
+    color: #1E9D8F;
+    padding-top: 5vw;
+}
+
+.benefits .main-description{
+    text-align: center;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 32px;
+    color: #4C575A;
+    width: 55%;
+    margin: auto;
+}
+
+.benefits .icons{
+    width: 100px;
+    height: 100px;
+    max-width: 100px;
+    max-height: 100px;
+    margin: 5vw auto 0px auto;
+}
+.benefits .icons img{
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.benefits .title {
+    text-align: center;
+    color: #24A898;
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.benefits .description {
+    text-align: center;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    color: #4C575A;
+    width: 75%;
+    margin: auto;
+}
+
+.benefits .right-content{
+    margin-bottom: 10vw;
+}
+
+.benefits .right-content .title{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 45px;
+    color: #1E9D8F;
+    text-align: left;
+    width: 75%;
+    margin: auto;
+    padding: 5vw 0 1vw 0;
+}
+
+.benefits .right-content .description{
+    font-family: 'Roboto';
+    font-size: 18px;
+    line-height: 28px;
+    text-align: left;
+    width: 75%;
+    padding-bottom: 1vw;
+}
+
+.benefits .fa-ul {
+    margin-left: 5vw !important;
+}
+
+.benefits .ol li {
+    font-family: 'Roboto';
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    color: #4C575A;
+}
+
+.benefits .far {
+    color: #1CABA0 !important;
+}
+
+.benefits .girl-background img{
+    max-width: 45vw;
+    width: 43.65vw;
+    max-height: 50vw;
+    height: 46.74vw;
+}
+
+
+.benefits .girl-shadow {
+    position: relative;
+    top: -3vw;
+    left: 20.58vw;
+    /* left: 34.8vw */
+}
+
+.benefits .placeholder-img{
+   max-width: 27.5vw; 
+}
+
+.benefits .placeholder-759{
+    position: relative;
+    top: -30vw;
+    left: 32vw;
+}
+
+.benefits .lightning{
+    position: relative;
+    top: -51.8vw;
+    left: 29.1vw;
+}
+
+.benefits .cap{
+    position: relative;
+    top: -49.5vw;
+    left: 24.5vw;
+}

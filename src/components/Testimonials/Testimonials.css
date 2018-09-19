@@ -1,0 +1,71 @@
+.testimonials .name{
+    font-family: 'Roboto';
+    font-size: 30px;
+    line-height: 35px;
+    text-align: left;
+    color: #1E9D8F;
+}
+
+.testimonials .header{
+    font-family: "Roboto Slab";
+    font-weight: 700px;
+    font-size: 54px;
+    line-height: 71px;
+    text-align: center;
+    color: #1E9D8F;
+}
+
+.testimonials .course{
+    font-family: 'Roboto';
+    font-size: 18px;
+    line-height: 32px;
+    text-align: left;
+    letter-spacing: -0.16px;
+    color: #939393;
+}
+
+.testimonials .testimonial-snippet{
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 22px;
+    line-height: 36px;
+    text-align: left;
+    color: #4C575A;
+    width: 95%;
+}
+
+.testimonials .videos{
+    background-color: #25B5A9;
+
+}
+
+.testimonials .labelrow{
+    position: absolute;
+    bottom: 0%;
+}
+
+.testimonials .cell{
+    position: relative;
+}
+
+.testimonials .student-name{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 22px;
+    text-align: left;
+    color: #FFF;
+}
+
+.testimonials .course-name{
+    font-family: "Roboto";
+    font-size: 18px;
+    line-height: 24px;
+    text-align: left;
+    color: #FFF;
+}
+
+.testimonials .temp-icon{
+ width: 5vw;
+ float: left;
+}
