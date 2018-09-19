@@ -1,0 +1,97 @@
+.footer {
+    background-color: #404F54;
+    height: 45vh;
+    text-align: center;
+}
+
+.footer .header{
+    font-family: "Roboto";
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.40);
+    width: 75%;
+    margin: auto;
+}
+
+.footer .header.bottom-header{
+    margin: 0 auto 6vh auto;
+}
+
+.footer .white{
+    color: white;
+}
+
+.footer .gray{
+    color: rgba(244, 250, 250, 0.40);
+}
+
+.footer .logo{
+    color: white;
+    font-size: 30px;
+    text-align: left;
+    width: 75%;
+    margin: 15vh auto 2vh auto;
+
+}
+
+.footer .platforms{
+    width: 75%;
+}
+
+.footer .platform-right{
+    text-align: right;
+}
+
+.footer .platform-left{
+    text-align: left;
+}
+
+.footer .right-side{
+    margin-top: 23vh;
+}
+
+.footer .right-side .title{
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.40);
+}
+
+.footer .right-side ul{
+    padding: 0px;
+    margin: 0px;
+}
+
+.footer .right-side ul li{
+    list-style: none;
+    text-align: left;
+}
+
+.footer .right-side ul li a{
+    font-family: "Roboto";
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 46px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.40);
+}
+
+.footer .social-media button{
+    background-color: rgba(179, 189, 188, 0.30);
+    width: 1.5vw;
+    height: 3vh;
+    border-radius: 100%;
+    margin: 2% 2% 0 2%;
+}
+
+.footer .fab{
+    color: #404F54;
+}
+
+.footer .selected{
+    background-color: #F4FAFA;
+}
