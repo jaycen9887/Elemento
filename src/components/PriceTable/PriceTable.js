@@ -21,7 +21,8 @@ class PriceTable extends Component {
                             <p>Port Van</p>
                         </div>
                         <p className='price'>$10</p>
-                        <button type='button'>BUTTON</button>
+                        <p className='monthly'> per month</p>
+                        <button type='button' className='button plan-button'>BUTTON</button>
                     </div>
                     <div className='cell small-12 medium-12 large-4 advanced'>
                         <p className='type'>Advanced Plan</p>
@@ -34,7 +35,7 @@ class PriceTable extends Component {
                         </div>
                         <p className='price'>$20</p>
                         <p className='monthly'> per month</p>
-                        <button type='button'>BUTTON</button>
+                        <button type='button' className='button plan-button'>BUTTON</button>
                     </div>
                     <div className='cell small-12 medium-12 large-4 deluxe'>
                         <p className='type'>Deluxe Plan</p>
@@ -46,7 +47,8 @@ class PriceTable extends Component {
                             <p>Port Van</p>
                         </div>
                         <p className='price'>$30</p>
-                        <button type='button' className='button'>BUTTON</button>
+                        <p className='monthly'> per month</p>
+                        <button type='button' className='button plan-button'>BUTTON</button>
                     </div>
                 </div>
             </div>

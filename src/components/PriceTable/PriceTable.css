@@ -1,6 +1,7 @@
 .priceTable{
     background-color: #F3F9F8;
     padding-top: 20vh;
+    text-align: center;
 }
 
 .priceTable .header{
@@ -103,7 +104,19 @@
     margin-bottom: 10vh;
 }
 
-.priceTable button {
+.priceTable button.plan-button {
+    width: 75%;
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px solid #FF7F45;
+    color: #FF7F45;
+    border-radius: 100px;
+    margin-bottom: 5vh;
+}
+
+.priceTable .advanced button.plan-button{
+    background-color: #FF7F45;
+    color: white;
+    box-shadow: 0px 12px rgba(16, 72, 67, 0.527);
     
 }
 
